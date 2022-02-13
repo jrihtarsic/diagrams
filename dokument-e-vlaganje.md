@@ -15,8 +15,8 @@ Zadnja verzija:
 | --------------- | -------------- |
 | Verzija         | 0.1            |
 | Datum           | 19\. 01. 2018  |
-| Pripravil       | Jože Rihtaršič |
-| Odgovorna oseba | Jože Rihtaršič |
+| Pripravil       |                |
+| Odgovorna oseba |                |
 | Zaupnost        | /              |
 | Datoteka        |                |
 
